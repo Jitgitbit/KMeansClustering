@@ -8,6 +8,7 @@ The plot displays what a K-means algorithm would yield.
 """
 
 import codecademylib3_seaborn
+# will not be accessible
 import matplotlib.pyplot as plt
 import numpy as np 
 
